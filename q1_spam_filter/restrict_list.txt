@@ -1,0 +1,6 @@
+# Restrict list: blocked domains.
+# Email from these domains (or their subdomains) is ALWAYS spam.
+# One domain per line. Lines starting with '#' are comments.
+cheap-pills.biz
+lottery-winner.example
+spammy-deals.biz

@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.cursor/
+# Folders created when the Q1 agent runs
+q1_spam_filter/inbox/
+q1_spam_filter/spam/
+q1_spam_filter/email/

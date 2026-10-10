@@ -1,0 +1,2 @@
+# Only needed to run the tests. The code itself uses the Python standard library.
+pytest>=7.0

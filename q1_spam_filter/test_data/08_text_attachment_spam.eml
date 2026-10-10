@@ -1,0 +1,22 @@
+From: Mailer <mailer@random-host.net>
+To: student@myseneca.ca
+Subject: Document attached
+Date: Sat, 03 Oct 2026 04:00:00 -0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1473341438466287838=="
+
+--===============1473341438466287838==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Please read the attached file. It is urgent and free.
+
+--===============1473341438466287838==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment; filename="details.txt"
+MIME-Version: 1.0
+
+You are the lottery winner. Claim one million in bitcoin.
+
+--===============1473341438466287838==--

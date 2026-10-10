@@ -1,0 +1,22 @@
+# Bad word list: words that are likely to appear in spam.
+# One word per line, lower case. Lines starting with '#' are comments.
+free
+winner
+prize
+cash
+urgent
+guarantee
+viagra
+lottery
+bitcoin
+crypto
+discount
+offer
+click
+unsubscribe
+congratulations
+claim
+million
+investment
+bonus
+risk-free
